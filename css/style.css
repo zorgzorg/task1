@@ -265,7 +265,7 @@ select{
 }
 
 .message-info, .message-success, .message-warning, .message-error {
-    margin: 10px 0px;
+    margin: 10px 0;
     padding:12px;
 }
 
